@@ -20,7 +20,6 @@ def create():
 
     print("ACCOUNT SUCCESSFULLY CREATED")
 
-
 def display(username):
     import hashlib
     password = input("enter your password:")
